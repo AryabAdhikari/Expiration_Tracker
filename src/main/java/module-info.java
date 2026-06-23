@@ -5,6 +5,6 @@ module com.example.expirationtracker {
     requires org.controlsfx.controls;
     requires org.kordamp.ikonli.javafx;
 
-    opens com.example.expirationtracker to javafx.fxml;
-    exports com.example.expirationtracker;
+    opens app to javafx.fxml;
+    exports app;
 }

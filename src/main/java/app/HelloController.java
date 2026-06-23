@@ -1,4 +1,4 @@
-package com.example.expirationtracker;
+package app;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
