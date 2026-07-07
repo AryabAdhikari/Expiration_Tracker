@@ -81,15 +81,9 @@ This is a one-person project. All development, testing, and integration work run
 
 **Still open from Phase 0:**
 
-- [ ] Install & verify Java 21 (Temurin)
-- [ ] Generate SSH keys + connect to GitHub over SSH
-- [ ] Install IntelliJ plugins (`.ignore`, `GitToolBox`, `JavaFX Support`)
-- [ ] Set up Maven project folder structure
 - [ ] Design the `Product` model
 - [ ] Design the database schema
 - [ ] Create UI sketches
-
-> 📅 The schedule has been restarted from today's date, restructured around a **uniform 2-hour session every day of the week**, running through the original final deadline of **September 10, 2026**.
 
 ---
 
